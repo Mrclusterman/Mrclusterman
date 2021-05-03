@@ -6,7 +6,7 @@ I'm Gabriel, a 20 years old web application developer from Spain.
 
 
 ## Skills
-- 👨‍💻 Java, C#, JavaScript, PHP
+- 👨‍💻 Java, C#, JavaScript
 - 👁️ CSS, SCSS
 - 💽 PostgreSQL, SQL
 

@@ -6,9 +6,10 @@ I'm Gabriel, a 20 years old web application developer from Spain.
 
 
 ## Skills
-- 👨‍💻 Java, C#, JavaScript
+- 👨‍💻 Java, C#, JavaScript,
 - 👁️ CSS, SCSS
 - 💽 PostgreSQL, SQL
+- 📁 Angular, Laravel
 
 ## Contact
 - [@MrClusterman](https://twitter.com/MrClusterman) on Twitter

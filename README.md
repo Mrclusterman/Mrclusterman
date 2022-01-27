@@ -1,7 +1,7 @@
 
 
 ## Hey! 👋
-I'm Gabriel, a 20 years old web application developer from Spain.
+I'm Gabriel Miralles Álvarez, a 20 years old web application developer from Spain.
 
 
 

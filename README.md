@@ -6,10 +6,10 @@ I'm Gabriel Miralles Álvarez, a 21 years old web application developer from Spa
 
 
 ## Skills
-- 👨‍💻 Java, C#, JavaScript,
+- 👨‍💻 Java, C#, JavaScript, HTML5
 - 👁️ CSS, SCSS
 - 💽 PostgreSQL, SQL
-- 📁 Angular, Laravel
+- 📁 Angular, Laravel, Node.JS
 
 ## Contact
 - [@MrClusterman](https://twitter.com/MrClusterman) on Twitter

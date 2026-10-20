@@ -11,7 +11,7 @@ I'm currently open to new opportunities (hybrid or remote).
 | Frontend | TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS |
 | Backend | Node.js, Python (FastAPI), Java (Spring Boot, basic) |
 | Data | MongoDB |
-| Tools | Docker, Git, GitHub Actions, Linux, Postman |
+| Tools | Docker, Git, GitHub Actions, Linux, Bash, Postman |
 
 ### What I'm working on
 

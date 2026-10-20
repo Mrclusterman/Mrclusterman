@@ -20,6 +20,7 @@ I'm currently open to new opportunities (hybrid or remote).
 ### Featured projects
 
 - **[Portfolio](https://mrclusterman.github.io/gabriel-miralles/)**: my personal site, built with Next.js and React ([code](https://github.com/Mrclusterman/gabriel-miralles)).
+- **[Hyprland on a T2 Mac](https://github.com/Mrclusterman/hyprland-t2)**: a macOS-style Hyprland desktop for a T2 MacBook Pro on Arch Linux, with a Lua config, Python and GTK popups for the bar, and a udev and systemd fix for suspend on Apple's T2 hardware, all installed by one Bash script.
 
 ### Contact
 

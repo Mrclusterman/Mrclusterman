@@ -1,19 +1,28 @@
+## Hi, I'm Gabriel 👋
 
+Full Stack Developer from Alicante, Spain. I build web applications end to end, from the API and the data model to the interface.
+I've worked on product at **Gnuinux Software** and in consulting at **Alten** and **NTT DATA**, using agile methodologies.
+I'm currently open to new opportunities (hybrid or remote).
 
-## Hey! 👋
-I'm Gabriel Miralles Álvarez, a web application developer from Spain.
+### Tech stack
 
+| Area | Technologies |
+|---|---|
+| Frontend | TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS |
+| Backend | Node.js, Python (FastAPI), Java (Spring Boot, basic) |
+| Data | MongoDB |
+| Tools | Docker, Git, GitHub Actions, Linux, Postman |
 
+### What I'm working on
 
-## Skills
-- 👨‍💻 Java, C#, JavaScript, HTML5
-- 👁️ CSS, SCSS
-- 💽 PostgreSQL, SQL
-- 📁 Angular, Laravel, Node.JS
+- **TrainSync**: an open source training planner for endurance athletes (running, cycling, swimming, triathlon). It runs on a FastAPI backend with a planning engine and tests, and a Next.js 16 + Tailwind 4 frontend. It's built on top of the intervals.icu API. *Private for now; coming soon.*
 
-## Contact
-- [@MrClusterman](https://twitter.com/MrClusterman) on Twitter
-- [@gabriel5m](https://www.instagram.com/gabriel5m) on Instagram
-- [Gabriel5m#2525](./) on Discord
+### Featured projects
 
+- **[Portfolio](https://mrclusterman.github.io/gabriel-miralles/)**: my personal site, built with Next.js and React ([code](https://github.com/Mrclusterman/gabriel-miralles)).
 
+### Contact
+
+- Email: [gabrielmirallesalvarez@gmail.com](mailto:gabrielmirallesalvarez@gmail.com)
+- LinkedIn: [linkedin.com/in/gabriel-miralles](https://www.linkedin.com/in/gabriel-miralles)
+- Portfolio: [mrclusterman.github.io/gabriel-miralles](https://mrclusterman.github.io/gabriel-miralles/)
